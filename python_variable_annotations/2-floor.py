@@ -2,6 +2,6 @@
 """n as argument"""
 
 
-def floor(n: float,) -> float:
+def floor(n: float,) -> int:
     """return float"""
-    return floor
+    return int(n)
