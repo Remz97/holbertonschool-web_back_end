@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" add two nr"""
+"""add two nr"""
 
 
 def add(a: float, b: float) -> float:
